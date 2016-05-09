@@ -1,5 +1,3 @@
-# ParkinApp
-It's an app. For parking!
-It's not here yet...
+Venim imadiat, nu te mai impacienta!
 
 Hai la tigara odata!
